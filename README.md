@@ -22,4 +22,4 @@ It is based on data from this site:  http://archive.ics.uci.edu/ml/datasets/Huma
      * __UCI_HAR_finalData.txt__ - a cleaned and aggregated "wide" data set compiling mean and standard deviation data from both the test and train sets of data, and including subject identifiers and activity data.
      
      
-     * __UCI_HAR_tidyData_Means.txt__ - a processing of the data referenced above, resulting in a table of means for each variable, for each combination of subject identifier and activity.
+     * __UCI_HAR_tidyData_Means.txt__ - a processing of the data cleaned in UCI_HAR_finalData.txt, resulting in a table of means for each variable, for each combination of subject identifier and activity.
